@@ -1,9 +1,13 @@
-# ⋆.˚✮ Sunwhver ✮˚.⋆
+<h1 style="font-style: italic; text-align: center;">
+    ⋆.˚✮ Sunwhver ✮˚.⋆
+</h1>
 ---
 
-![Funny Cat](https://i.pinimg.com/originals/9d/cb/66/9dcb66c7f4f125c7c1f723b17c879a15.gif)
+![Kitty café](https://i.pinimg.com/originals/9d/cb/66/9dcb66c7f4f125c7c1f723b17c879a15.gif)
 
-<p>ᝰ.ᐟ Kitty e seu cafézinho ۶ৎ</p>
+<p style="font-style: italic; text-align: center;">
+    ᝰ.ᐟ Kitty e seu cafézinho ۶ৎ
+</p>
 
 <a href="https://open.spotify.com/playlist/0mBWvVeucnAUBE7s9tMISL?si=fb9b87d8995c42f3" target="_blank" rel="noopener noreferrer">
   <img 
