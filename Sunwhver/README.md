@@ -7,18 +7,28 @@
     ⋆.˚✮ Sunwhver ✮˚.⋆
 </h1>
 
-<div class="conteiner-biografia">
+<div class="conteiner-biografia" style="margin-bottom: 20px">
   <h4>Sobre mim:</h4>
   <p>Meu nome é Diana Zamprogna, tenho 18 anos, sou desenvolvedora web e amo músicas</p>
 </div>
+<div class="redes sociais" style="display:flex; align-items: center;">
+  <a href="https://www.instagram.com/sunwhver_13?igsh=bDB4MnFraDAzdjcw" target="_blank" rel="noopener noreferrer" class="instagram" aria-label="Instagram pessoal" style="display: inline-block;">
+    <img 
+      src="https://i.pinimg.com/736x/d7/9b/70/d79b707511d7cf016bf89d9ca3d23e98.jpg" 
+      alt="botão-Instagram" 
+      style="width: 40px; height: 40px; border-radius: 8px; transition: opacity 0.3s ease; display: block;"
+    />
 
-<a href="https://www.instagram.com/sunwhver_13?igsh=bDB4MnFraDAzdjcw" target="_blank" rel="noopener noreferrer" class="instagram" aria-label="Instagram pessoal" style="display: inline-block; margin-top: 20px;">
-  <img 
-    src="https://i.pinimg.com/736x/d7/9b/70/d79b707511d7cf016bf89d9ca3d23e98.jpg" 
-    alt="Ícone Instagram" 
-    style="width: 40px; height: 40px; border-radius: 8px; transition: opacity 0.3s ease; display: block;"
-  />
-</a>
+  </a>
+    <a href="https://www.linkedin.com/in/diana-alves-zamprogna-714a47212" target="_blank" rel="noopener noreferrer" class="linkedin" aria-label="linkedin profissional" style="display: inline-block;">
+    <img 
+      src="https://i.pinimg.com/736x/70/74/2f/70742f73acb5235271e90deae74b0037.jpg" 
+      alt="botão-linkedin" 
+      style="width: 28px; height: 28px; border-radius: 8px; transition: opacity 0.3s ease; display: block;"
+    />
+  </a>
+</div>
+
 
 <div class="hello-kitty" style="text-align: center;     margin-bottom: 60px">
   <img 
@@ -74,5 +84,16 @@
 
   .instagram:hover img {
     content: url('https://i.pinimg.com/1200x/db/45/d3/db45d33b32697c97fde9859bf9f64084.jpg');
+  }
+
+  .linkedin img {
+        width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    transition: opacity 0.3s ease;
+    display: block;
+  }
+  .linkedin:hover img {
+    content: url('https://i.pinimg.com/1200x/ab/1e/1e/ab1e1e8e0bda863f76755c2e235b2a2d.jpg');
   }
 </style>
