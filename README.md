@@ -15,6 +15,7 @@ Olá! Meu nome é *Diana Zamprogna*, tenho 18 anos e sou desenvolvedora web na A
 - Python
 - Java
 - Flutter
+- Flutterflow
 
 ## ✨ Badges
 ![GitHub followers](https://img.shields.io/github/followers/Sunwhver?style=social)
@@ -30,10 +31,9 @@ Olá! Meu nome é *Diana Zamprogna*, tenho 18 anos e sou desenvolvedora web na A
 
   [![Notion](https://img.shields.io/badge/Notion-F9C6D5?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Dianica-260d302f6f578018a031f500b3e68975?source=copy_link) &nbsp;
   [![Instagram](https://img.shields.io/badge/Instagram-F9C6D5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sunwhver_13) &nbsp;
-  [![Facebook](https://img.shields.io/badge/Facebook-F9C6D5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/) &nbsp;
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-F9C6D5?style=for-the-badge&logo=hearth&logoColor=white)](https://www.linkedin.com/in/diana-alves-zamprogna-714a47212) &nbsp;
   [![Email](https://img.shields.io/badge/Email-F9C6D5?style=for-the-badge&logo=gmail&logoColor=white)](dianaalveszamprogna@gmail.com) &nbsp;
-  [![Twitter](https://img.shields.io/badge/Twitter-F9C6D5?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/) &nbsp;
+  [![Twitter](https://img.shields.io/badge/Twitter-F9C6D5?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sunwhver?t=CGgCWMfLx19fIkVzN5_ouQ&s=09) &nbsp;
   [![Bento.me](https://img.shields.io/badge/Bento.me-F9C6D5?style=for-the-badge&logo=ghost&logoColor=white)](https://bento.me/sunwhver)
   
 </p>
