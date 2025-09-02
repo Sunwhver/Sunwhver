@@ -3,7 +3,6 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
-
 # ⋆.˚✮ Sunwhver ✮˚.⋆
 
 Olá! Meu nome é *Diana Zamprogna*, tenho 18 anos e sou desenvolvedora web na Aconcaia. curso o quarto período de Sistemas de Informação na Universidade MaterDei. Me conheça um pouco mais logo abaixo 🦊🍓
@@ -39,17 +38,17 @@ Olá! Meu nome é *Diana Zamprogna*, tenho 18 anos e sou desenvolvedora web na A
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9d/cb/66/9dcb66c7f4f125c7c1f723b17c879a15.gif">
+  <img src="https://i.pinimg.com/originals/9d/cb/66/9dcb66c7f4f125c7c1f723b17c879a15.gif" style="border-radius: 20px;">
 </p>
+<p align="center>ᝰ.ᐟ Kitty e seu cafézinho ৬ৎ</p>
 
 ## 🪻 Frase de inspiração
 <br>
 
-
-
 <div align="center">
 
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<pre>I wanna be defined by the things that I love. Not the things I hate. Not the things that I'm afraid of, I'm afraid of. Not the things that haunt me in the middle of the night. I just think that. You are what you love</pre>
+<img src="https://i.pinimg.com/736x/1c/d7/05/1cd7053d0848fa2a73950fef88c54b48.jpg" width="25%" align="right" style="border-radius: 20px;" />
+<pre style="min-height: 100px; border-radius:20px;">I wanna be defined by the things that I love. Not the things I hate. Not the things that I'm afraid of, I'm afraid of. Not the things that haunt me in the middle of the night. I just think that. You are what you love</pre>
 <br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" />
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" style="border-radius: 20px;" />
+</div>
