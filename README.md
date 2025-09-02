@@ -48,7 +48,8 @@ Olá! Meu nome é *Diana Zamprogna*, tenho 18 anos e sou desenvolvedora web na A
 <div align="center">
 
 <img src="https://i.pinimg.com/736x/1c/d7/05/1cd7053d0848fa2a73950fef88c54b48.jpg" width="25%" align="right" style="border-radius: 20px;" />
-<pre style="min-height: 100px; border-radius:20px;">I wanna be defined by the things that I love. Not the things I hate. Not the things that I'm afraid of, I'm afraid of. Not the things that haunt me in the middle of the night. I just think that. You are what you love</pre>
+<p style="min-height: 100px; border-radius:20px;">
+I wanna be defined by the things that I love. Not the things I hate. Not the things that I'm afraid of, I'm afraid of. Not the things that haunt me in the middle of the night. I just think that. You are what you love</p>
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" style="border-radius: 20px;" />
 </div>
